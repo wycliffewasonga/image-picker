@@ -1,0 +1,23 @@
+{
+  "name": "@wycliffewasonga/image-picker",
+  "version": "0.0.1",
+  "homepage": "https://github.com/wycliffewasonga/image-picker#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wycliffewasonga/image-picker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wycliffewasonga/image-picker/issues"
+  },
+  "author": {
+    "name": "Wycliffe Wasonga",
+    "email": "wycliffewasonga@gmail.com"
+  },
+  "peerDependencies": {
+    "@angular/common": "^10.1.6",
+    "@angular/core": "^10.1.6"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  }
+}
